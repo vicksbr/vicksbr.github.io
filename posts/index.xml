@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Pedro Puzzi annotation&#39;s</title>
+    <link>https://vicksbr.github.io/posts/</link>
+    <description>Recent content in Posts on Pedro Puzzi annotation&#39;s</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Nov 2019 22:42:01 -0300</lastBuildDate>
+    
+	<atom:link href="https://vicksbr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me!</title>
+      <link>https://vicksbr.github.io/posts/about/</link>
+      <pubDate>Mon, 18 Nov 2019 22:42:01 -0300</pubDate>
+      
+      <guid>https://vicksbr.github.io/posts/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
